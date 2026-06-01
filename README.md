@@ -6,6 +6,7 @@ To run the program, run the file named [main.py](./main.py).
 
 ## Clone this repository
 
+
 First, clone this repository to your local computer, using Visual Studio Code's cloning feature.
 
 Helpful video:
